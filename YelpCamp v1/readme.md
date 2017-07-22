@@ -6,4 +6,4 @@
 * * *
 ![](images/landing.png)
 ![](images/camp.png)
-![](images/add.png)
+![](images/addcamp.png)
