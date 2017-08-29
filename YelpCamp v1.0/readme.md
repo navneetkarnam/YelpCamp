@@ -13,3 +13,4 @@
 ### 3.Add campground page:
 ![](images/addcamp.png)
 * * *
+* * *
